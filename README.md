@@ -1,2 +1,2 @@
 # hello-world
-first repo in git
+first repo in git,oh God im such a noob....
